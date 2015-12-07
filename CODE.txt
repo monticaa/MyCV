@@ -1,0 +1,10 @@
+.element
+{
+	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.75);
+	color: #0080ff;
+	font-size: 50px;
+}
+
+
+
+http://www.ahashare.com/download.php?id=768858&uid=6016

@@ -1,0 +1,631 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true
+          },
+          "items": "<ul class=\"nav nav-pills pull-right\"><li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"\">HOME</a></li> <li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"\">EXPERIENCE</a></li> <li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"\">SKILLS</a></li> <li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"\">SEMINAR</a></li> <li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"\">PORTFOLIO</a></li><li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"\">CONTACT</a></li></ul>",
+          "logo": "{PROJECT_IMAGES}mylogo.png",
+          "brand": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"\">Nold</a>",
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_styles": {
+            ".brand > span > a": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "A": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}matrix.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "center": true,
+          "title": "Hi I'm<br>ARNOLD M. MONTICALVO",
+          "text": "<span style=\"font-weight: bold;\">IT.Software Developer.</span><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mobirise.com\">LEARN MORE ABOUT ME</a>",
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "30px"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#efefef",
+              "font-size": "24px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#27aae0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CAREER PROFILE",
+          "text": "\n                    <p>• More than ten years of technical expertise in various IT fields. • Advanced knowledge in system administration and network policies. • Extensive knowledge in software development, hardware maintenance and troubleshooting. • Well verse in corporate IT working environment and international standards. • Major strength includes the ability to work with diverse and multicultural groups. • Proactive team player with excellent interpersonal relationship, and communication skills. • Proven track record of facilitating changes within a professional result oriented time bound manner.</p><p><br></p><p>If Sad=True then</p><p>&nbsp; &nbsp;Sad=False</p><p>&nbsp; &nbsp;TrustInGod(); ThinkPositive(); BeAwesome();</p><p>End If</p>\n                    ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\">DOWNLOAD RESUME</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-10",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "21px"
+            },
+            "H2": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "WORKING EXPERIENCE",
+          "items": [
+            {
+              "authorName": "<br>",
+              "authorBio": "User",
+              "text": "\n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">IT Manager</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">FSM Social Security Administration</span></p><p class=\"mbr-reviews__p\">Headquarter, Kolonia, Pohnpei FM</p><p class=\"mbr-reviews__p\">Website: <a href=\"www.fm/fsmssa/index.htm\" target=\"_blank\">FSM Social Security Administration</a></p><p class=\"mbr-reviews__p\">Department:\tIT Department</p><p class=\"mbr-reviews__p\">March 08, 2015 - present</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Hardware and Networking</span></p><p class=\"mbr-reviews__p\">Maintain and operate computer systems, network, switches and routers. Oversee Installation, support and maintain servers, laptop and desktop computer systems. Plan for and respond to service outages and other problems. Responsible for overall security and the upkeep of firewalls and intrusion detection systems.<br></p><p class=\"mbr-reviews__p\">Perform and verify back-ups of system data and other server files. Suggest and improve on all IT procedures. Quickly diagnose hardware and networking problems at HQ and in branch offices.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software</span></p><p class=\"mbr-reviews__p\">Oversee all computer software requirements and installation including the installation of upgrades, and all operational tasks, including:</p><p class=\"mbr-reviews__p\">•\tAll employer and benefit functions</p><p class=\"mbr-reviews__p\">•\tMaintaining usernames and permissions</p><p class=\"mbr-reviews__p\">•\tCheck printing procedures<br></p><p class=\"mbr-reviews__p\">•\tImporting and Exporting data from branches</p><p class=\"mbr-reviews__p\">•\tImporting and Exporting data to Headquarters</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Management</span><br></p><p class=\"mbr-reviews__p\">• Train computer staff in all aspects of FSM Social Security Administration computer operations,  so that adequate personnel back up is always available;<br></p><p class=\"mbr-reviews__p\">• Keep in touch w/FSM Social Security contract programmers on a regular basis and keep the Administrator informed of any changes or additions required to FSM Social Security Administration  computer hardware or software;<br></p><p class=\"mbr-reviews__p\">• Ensures monthly, quarterly and year-end data processing are done on a timely manner;<br></p><p class=\"mbr-reviews__p\">• Periodically test audit trails to ensure no security violations have occurred in the master files;<br></p><p class=\"mbr-reviews__p\">• Perform other duties as assigned in job description</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">IT/Software Developer</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">MZ and Parnters Consultancy</span></p><p class=\"mbr-reviews__p\">Address : P.O. Box 5785 Doha Qatar</p><p class=\"mbr-reviews__p\">Website : http://www.mzandpartners.com</p><p class=\"mbr-reviews__p\">Department:\tIT Department</p><p class=\"mbr-reviews__p\">Sept 24, 2010 - Present</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">• Maintaining company’s IT infrastructure</p><p class=\"mbr-reviews__p\">• Monitoring and ensuring company’s software and network availability</p><p class=\"mbr-reviews__p\">• Supervising Server operation and ensuring optimal performance</p><p class=\"mbr-reviews__p\">• Manage Server and Workstation software deployment using Microsoft SCCM</p><p class=\"mbr-reviews__p\">• Developing software to aid in CAD operation and process</p><p class=\"mbr-reviews__p\">• Provide electronically or hardcopy IT information and documentation to users</p><p class=\"mbr-reviews__p\">• Perform Intervention or refer to external assistance, if necessary</p><p class=\"mbr-reviews__p\">• Developing application to streamline daily task</p>\n                            \n                            "
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "\n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Systems Engineer</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Al-Othaim Markets Company</span></p><p class=\"mbr-reviews__p\">P.O. Box 41700 Riyadh, KSA</p><p class=\"mbr-reviews__p\">Website : <a href=\"http://www.othaimmarkets.com/en\" target=\"_blank\">Al Othaim Markets -KSA</a><a href=\"http://www.othaimmarkets.com/en\"></a></p><p class=\"mbr-reviews__p\">Department:\tIT infrastructure Department</p><p class=\"mbr-reviews__p\">November 30, 2008 to January 31, 2010</p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\"><br></span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\"><br></span></p><p class=\"mbr-reviews__p\">• Providing first line of support on all branches regarding system and application issues</p><p class=\"mbr-reviews__p\">• Collaborate with other IT Team regarding system issues and anomalies</p><p class=\"mbr-reviews__p\">• Monitoring and ensuring company’s system and network integrity</p><p class=\"mbr-reviews__p\">• Supervising the installation of network connections and devices for new projects such as new markets</p><p class=\"mbr-reviews__p\">• Responsible in monitoring branch daily connection uploads and batch processing</p><p class=\"mbr-reviews__p\">• Collaborate with other IT Team member regarding system development</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\"><br></span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">MIS/Application Developer</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Essilor Manufacturing Philippines Inc.</span></p><p class=\"mbr-reviews__p\">SFB No. 10 FAB Mariveles, Bataan<br></p><p class=\"mbr-reviews__p\">Website : <a href=\"http://www.essilor.com.ph\" target=\"_blank\">Essilor Manufacturing Philippines Inc</a></p><p class=\"mbr-reviews__p\">Department:\tMIS/Logistics Department\u001b</p><p class=\"mbr-reviews__p\">July 14, 1999 – October 2008<br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software</span></p><p class=\"mbr-reviews__p\">• Installation of Software according to the company’s standard and user’s requirement</p><p class=\"mbr-reviews__p\">• Provide software support and ISO documentation for every revision</p><p class=\"mbr-reviews__p\">• Analyze end users requests for software development and modification</p><p class=\"mbr-reviews__p\">• Develop software according to the company’s standard and user requirement</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Hardware</span></p><p class=\"mbr-reviews__p\">• Select Hardware and Networking needs according to the companies’ standard requirement</p><p class=\"mbr-reviews__p\">• Identify needs for upgrading and renew of Hardware</p><p class=\"mbr-reviews__p\">• Monitor and test hardware’s working integrity and setup</p><p class=\"mbr-reviews__p\">• Provide technical support and repair if possible<br></p><p class=\"mbr-reviews__p\">• Provide preventive maintenance of all IT hardware</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Management</span></p><p class=\"mbr-reviews__p\">• Provide electronically or hardcopy IT information and documentation to users</p><p class=\"mbr-reviews__p\">• Documentation and registration of new hardware</p><p class=\"mbr-reviews__p\">• Perform Intervention or refer to external assistance, if necessary</p>\n                            "
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-7",
+          "testimonial": [
+            {
+              "index": 0,
+              "authorName": "<br>",
+              "authorBio": "User",
+              "text": "\n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">IT Manager</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">FSM Social Security Administration</span></p><p class=\"mbr-reviews__p\">Headquarter, Kolonia, Pohnpei FM</p><p class=\"mbr-reviews__p\">Website: <a href=\"www.fm/fsmssa/index.htm\" target=\"_blank\">FSM Social Security Administration</a></p><p class=\"mbr-reviews__p\">Department:\tIT Department</p><p class=\"mbr-reviews__p\">March 08, 2015 - present</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Hardware and Networking</span></p><p class=\"mbr-reviews__p\">Maintain and operate computer systems, network, switches and routers. Oversee Installation, support and maintain servers, laptop and desktop computer systems. Plan for and respond to service outages and other problems. Responsible for overall security and the upkeep of firewalls and intrusion detection systems.<br></p><p class=\"mbr-reviews__p\">Perform and verify back-ups of system data and other server files. Suggest and improve on all IT procedures. Quickly diagnose hardware and networking problems at HQ and in branch offices.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software</span></p><p class=\"mbr-reviews__p\">Oversee all computer software requirements and installation including the installation of upgrades, and all operational tasks, including:</p><p class=\"mbr-reviews__p\">•\tAll employer and benefit functions</p><p class=\"mbr-reviews__p\">•\tMaintaining usernames and permissions</p><p class=\"mbr-reviews__p\">•\tCheck printing procedures<br></p><p class=\"mbr-reviews__p\">•\tImporting and Exporting data from branches</p><p class=\"mbr-reviews__p\">•\tImporting and Exporting data to Headquarters</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Management</span><br></p><p class=\"mbr-reviews__p\">• Train computer staff in all aspects of FSM Social Security Administration computer operations,  so that adequate personnel back up is always available;<br></p><p class=\"mbr-reviews__p\">• Keep in touch w/FSM Social Security contract programmers on a regular basis and keep the Administrator informed of any changes or additions required to FSM Social Security Administration  computer hardware or software;<br></p><p class=\"mbr-reviews__p\">• Ensures monthly, quarterly and year-end data processing are done on a timely manner;<br></p><p class=\"mbr-reviews__p\">• Periodically test audit trails to ensure no security violations have occurred in the master files;<br></p><p class=\"mbr-reviews__p\">• Perform other duties as assigned in job description</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">IT/Software Developer</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">MZ and Parnters Consultancy</span></p><p class=\"mbr-reviews__p\">Address : P.O. Box 5785 Doha Qatar</p><p class=\"mbr-reviews__p\">Website : http://www.mzandpartners.com</p><p class=\"mbr-reviews__p\">Department:\tIT Department</p><p class=\"mbr-reviews__p\">Sept 24, 2010 - Present</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">• Maintaining company’s IT infrastructure</p><p class=\"mbr-reviews__p\">• Monitoring and ensuring company’s software and network availability</p><p class=\"mbr-reviews__p\">• Supervising Server operation and ensuring optimal performance</p><p class=\"mbr-reviews__p\">• Manage Server and Workstation software deployment using Microsoft SCCM</p><p class=\"mbr-reviews__p\">• Developing software to aid in CAD operation and process</p><p class=\"mbr-reviews__p\">• Provide electronically or hardcopy IT information and documentation to users</p><p class=\"mbr-reviews__p\">• Perform Intervention or refer to external assistance, if necessary</p><p class=\"mbr-reviews__p\">• Developing application to streamline daily task</p>\n                            \n                            "
+            },
+            {
+              "index": 1,
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "\n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Systems Engineer</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Al-Othaim Markets Company</span></p><p class=\"mbr-reviews__p\">P.O. Box 41700 Riyadh, KSA</p><p class=\"mbr-reviews__p\">Website : <a href=\"http://www.othaimmarkets.com/en\" target=\"_blank\">Al Othaim Markets -KSA</a><a href=\"http://www.othaimmarkets.com/en\"></a></p><p class=\"mbr-reviews__p\">Department:\tIT infrastructure Department</p><p class=\"mbr-reviews__p\">November 30, 2008 to January 31, 2010</p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\"><br></span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\"><br></span></p><p class=\"mbr-reviews__p\">• Providing first line of support on all branches regarding system and application issues</p><p class=\"mbr-reviews__p\">• Collaborate with other IT Team regarding system issues and anomalies</p><p class=\"mbr-reviews__p\">• Monitoring and ensuring company’s system and network integrity</p><p class=\"mbr-reviews__p\">• Supervising the installation of network connections and devices for new projects such as new markets</p><p class=\"mbr-reviews__p\">• Responsible in monitoring branch daily connection uploads and batch processing</p><p class=\"mbr-reviews__p\">• Collaborate with other IT Team member regarding system development</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\"><br></span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">MIS/Application Developer</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Essilor Manufacturing Philippines Inc.</span></p><p class=\"mbr-reviews__p\">SFB No. 10 FAB Mariveles, Bataan<br></p><p class=\"mbr-reviews__p\">Website : <a href=\"http://www.essilor.com.ph\" target=\"_blank\">Essilor Manufacturing Philippines Inc</a></p><p class=\"mbr-reviews__p\">Department:\tMIS/Logistics Department\u001b</p><p class=\"mbr-reviews__p\">July 14, 1999 – October 2008<br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Duties and Responsibilities:</span></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software</span></p><p class=\"mbr-reviews__p\">• Installation of Software according to the company’s standard and user’s requirement</p><p class=\"mbr-reviews__p\">• Provide software support and ISO documentation for every revision</p><p class=\"mbr-reviews__p\">• Analyze end users requests for software development and modification</p><p class=\"mbr-reviews__p\">• Develop software according to the company’s standard and user requirement</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Hardware</span></p><p class=\"mbr-reviews__p\">• Select Hardware and Networking needs according to the companies’ standard requirement</p><p class=\"mbr-reviews__p\">• Identify needs for upgrading and renew of Hardware</p><p class=\"mbr-reviews__p\">• Monitor and test hardware’s working integrity and setup</p><p class=\"mbr-reviews__p\">• Provide technical support and repair if possible<br></p><p class=\"mbr-reviews__p\">• Provide preventive maintenance of all IT hardware</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Management</span></p><p class=\"mbr-reviews__p\">• Provide electronically or hardcopy IT information and documentation to users</p><p class=\"mbr-reviews__p\">• Documentation and registration of new hardware</p><p class=\"mbr-reviews__p\">• Perform Intervention or refer to external assistance, if necessary</p>\n                            "
+            }
+          ],
+          "onlyTwo": true,
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1abc9c",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "SKILLS/<br>PROFICIENCY",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "\n                                \n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">System Administration</span></p><p class=\"mbr-reviews__p\">• Active Directory, Domain Management and Securities</p><p class=\"mbr-reviews__p\">• Server, Computer Management Administration</p><p class=\"mbr-reviews__p\">• Network Scripting and Automation</p><p class=\"mbr-reviews__p\">• Operating System Deployment (Unattended, Cloning, WinPE)<br></p><p class=\"mbr-reviews__p\">• Microsoft Exchange Administration.</p><p class=\"mbr-reviews__p\">• NAS/Tape Backup</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software Development</span></p><p class=\"mbr-reviews__p\">• Microsoft Visual Studio (ASP.NET/Visual Basic.Net/C#.net)</p><p class=\"mbr-reviews__p\">• Adobe Flex Builder 4.6 and Flash CS5</p><p class=\"mbr-reviews__p\">• Microsoft SQL and Stored Procedure/MYSQL</p><p class=\"mbr-reviews__p\">• Web/Mobile Application Development</p><p class=\"mbr-reviews__p\">• HTM/HTML5/CSS</p><p class=\"mbr-reviews__p\">• Macro Programming in VBA/Microsoft Office Automation</p><p class=\"mbr-reviews__p\">• Autodesk .NET Application Development for AutoCAD, Revit and Robot</p><p class=\"mbr-reviews__p\">• Relational Database Management System (SQL/Visual FoxPro/DBASE)</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Productivity Software</span></p><p class=\"mbr-reviews__p\">• \tAdobe Photoshop</p><p class=\"mbr-reviews__p\">• \tMicrosoft Office, Basic knowledge in Autodesk AutoCAD and Revit&nbsp;</p><p class=\"mbr-reviews__p\"><br></p>\n                            \n                            \n                            "
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "\n                                \n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software Applications</span></p><p class=\"mbr-reviews__p\">• Microsoft Windows Operating Systems and Servers</p><p class=\"mbr-reviews__p\">• Microsoft System Center Configuration Manager and Microsoft ISA/TMG Server</p><p class=\"mbr-reviews__p\">• CA Unicenter Software Asset and Delivery</p><p class=\"mbr-reviews__p\">• CA Unicenter ArcServer Backup</p><p class=\"mbr-reviews__p\">• Microsoft Forefront Endpoint Protection/Symantec Corporate Antivirus<br></p><p class=\"mbr-reviews__p\">• Remote Control and Management Software</p><p class=\"mbr-reviews__p\">• VMWare Workstation/Microsoft Virtual Machine</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Network Installation</span></p><p class=\"mbr-reviews__p\">• &nbsp;Basic Network Installation, Cabling and troubleshooting, CISCO Routers and &nbsp;Switches, Wireless devices/Access Point Remote Control Software Troubleshooting</p><p class=\"mbr-reviews__p\">• Knowledge in corporate (WAN/LAN) environment<br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Technical Support and Helpdesk/ISO Standards</span></p><p class=\"mbr-reviews__p\">• \tAnalyze/Repair/Document all IT related issues<br></p><p class=\"mbr-reviews__p\">• &nbsp;Maintain, develop and manage current system</p><p class=\"mbr-reviews__p\">• \tProvide immediate solution to end user</p><p class=\"mbr-reviews__p\">• \tKnowledge and training in International Standards IS0 9001,14001,18001</p>\n                            \n                            \n                            "
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-9",
+          "testimonial": [
+            {
+              "index": 0,
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "\n                                \n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">System Administration</span></p><p class=\"mbr-reviews__p\">• Active Directory, Domain Management and Securities</p><p class=\"mbr-reviews__p\">• Server, Computer Management Administration</p><p class=\"mbr-reviews__p\">• Network Scripting and Automation</p><p class=\"mbr-reviews__p\">• Operating System Deployment (Unattended, Cloning, WinPE)<br></p><p class=\"mbr-reviews__p\">• Microsoft Exchange Administration.</p><p class=\"mbr-reviews__p\">• NAS/Tape Backup</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software Development</span></p><p class=\"mbr-reviews__p\">• Microsoft Visual Studio (ASP.NET/Visual Basic.Net/C#.net)</p><p class=\"mbr-reviews__p\">• Adobe Flex Builder 4.6 and Flash CS5</p><p class=\"mbr-reviews__p\">• Microsoft SQL and Stored Procedure/MYSQL</p><p class=\"mbr-reviews__p\">• Web/Mobile Application Development</p><p class=\"mbr-reviews__p\">• HTM/HTML5/CSS</p><p class=\"mbr-reviews__p\">• Macro Programming in VBA/Microsoft Office Automation</p><p class=\"mbr-reviews__p\">• Autodesk .NET Application Development for AutoCAD, Revit and Robot</p><p class=\"mbr-reviews__p\">• Relational Database Management System (SQL/Visual FoxPro/DBASE)</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Productivity Software</span></p><p class=\"mbr-reviews__p\">• \tAdobe Photoshop</p><p class=\"mbr-reviews__p\">• \tMicrosoft Office, Basic knowledge in Autodesk AutoCAD and Revit&nbsp;</p><p class=\"mbr-reviews__p\"><br></p>\n                            \n                            \n                            "
+            },
+            {
+              "index": 1,
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "\n                                \n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Software Applications</span></p><p class=\"mbr-reviews__p\">• Microsoft Windows Operating Systems and Servers</p><p class=\"mbr-reviews__p\">• Microsoft System Center Configuration Manager and Microsoft ISA/TMG Server</p><p class=\"mbr-reviews__p\">• CA Unicenter Software Asset and Delivery</p><p class=\"mbr-reviews__p\">• CA Unicenter ArcServer Backup</p><p class=\"mbr-reviews__p\">• Microsoft Forefront Endpoint Protection/Symantec Corporate Antivirus<br></p><p class=\"mbr-reviews__p\">• Remote Control and Management Software</p><p class=\"mbr-reviews__p\">• VMWare Workstation/Microsoft Virtual Machine</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Network Installation</span></p><p class=\"mbr-reviews__p\">• &nbsp;Basic Network Installation, Cabling and troubleshooting, CISCO Routers and &nbsp;Switches, Wireless devices/Access Point Remote Control Software Troubleshooting</p><p class=\"mbr-reviews__p\">• Knowledge in corporate (WAN/LAN) environment<br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Technical Support and Helpdesk/ISO Standards</span></p><p class=\"mbr-reviews__p\">• \tAnalyze/Repair/Document all IT related issues<br></p><p class=\"mbr-reviews__p\">• &nbsp;Maintain, develop and manage current system</p><p class=\"mbr-reviews__p\">• \tProvide immediate solution to end user</p><p class=\"mbr-reviews__p\">• \tKnowledge and training in International Standards IS0 9001,14001,18001</p>\n                            \n                            \n                            "
+            }
+          ],
+          "onlyTwo": true,
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "19px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "SEMINARS/<br>TRAININGS<span style=\"color: inherit; font-family: inherit; line-height: 1.5em;\">/&nbsp;</span><div>ATTENDED</div>",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "\n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tISO 9001:2008 Orientation</span></p><p class=\"mbr-reviews__p\">Conducted by:\tVisual International</p><p class=\"mbr-reviews__p\">Venue:\tCollege of North Atlantic Doha, Qatar</p><p class=\"mbr-reviews__p\">Date:\tMay 19, 2012</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tAutodesk Revit Structure 2010</span></p><p class=\"mbr-reviews__p\">Conducted by:\tStanford IT Learning CIM Tech</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tAugust 31 to September 4, 2010</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tBasic Cisco Device Overview</span></p><p class=\"mbr-reviews__p\">Conducted by:\tAl-Othaim Markets Company</p><p class=\"mbr-reviews__p\">Venue:\tRiyadh KSA</p><p class=\"mbr-reviews__p\">Date:\tDecember 7 to 10, 2008</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tImplementing a Microsoft SQL Server 2005 Database</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMSINet Education Inc.</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tJuly 16 to 18, 2010</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tCourse 4995 – Programming with the Microsoft.NET Framework</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMSINet Education Inc.</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tMay 04 to 08, 2010</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tElectrical Safety/LOTO Training</span></p><p class=\"mbr-reviews__p\">Conducted by:\tEssilor Safety Department</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tJanuary 14, 2008</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tAutoCAD 2007</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMicroCAD</p><p class=\"mbr-reviews__p\">Venue:\tSan Fernando, Pampanga Philippines</p><p class=\"mbr-reviews__p\">Date:\tMay 6 to July 1, 2007</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t Course 2279 - Planning, Implementing &amp; Maintaining Microsoft Windows Server 2003/Active Directory Infrastructure</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMSINet Education Inc.</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tJune 04 to 08, 2008</p>\n                            \n                            "
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "\n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tISO 14001 - Environment Aspect</span><br></p><p class=\"mbr-reviews__p\">Conducted by:\tNSI Consulting</p><p class=\"mbr-reviews__p\">Venue:\tBalanga, Bataan Philippines</p><p class=\"mbr-reviews__p\">Date:\tFebruary 5 to 11, 2005</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tWindows SD/SAM Migration System</span></p><p class=\"mbr-reviews__p\">Conducted by:\tEssilor DSI (In-house Training)</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tMarch 11 to 13, 2005</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tSix Sigma Orientation</span></p><p class=\"mbr-reviews__p\">Conducted by:\tQA Department (In-house Training)</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tFebruary 25, 2005</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tInteraction Management</span></p><p class=\"mbr-reviews__p\">Conducted by:\tCiriaco Consulting Group</p><p class=\"mbr-reviews__p\">Venue:\tBalanga City, Bataan Philippines</p><p class=\"mbr-reviews__p\">Date:\tNovember 28 to December 2, 2004</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tSafety &amp; Environmental Refresher Course</span></p><p class=\"mbr-reviews__p\">Conducted by:\tNSI Consulting</p><p class=\"mbr-reviews__p\">Venue:\tMariveles, Bataan</p><p class=\"mbr-reviews__p\">Date:\tOctober 5 to 7, 2003</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tAppreciation Course on ISO 14001</span></p><p class=\"mbr-reviews__p\">Conducted by:\tNSI Consulting</p><p class=\"mbr-reviews__p\">Venue:\tMariveles, Bataan</p><p class=\"mbr-reviews__p\">Date:\tNovember 11 to 12, 2003</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tMicrosoft Server &amp; Desktop Deployment</span></p><p class=\"mbr-reviews__p\">Conducted by:\tEssilor MIS Dept. (In-house Training)</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tJanuary 15, 2001</p>\n                            \n                            "
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-12",
+          "testimonial": [
+            {
+              "index": 0,
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "\n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tISO 9001:2008 Orientation</span></p><p class=\"mbr-reviews__p\">Conducted by:\tVisual International</p><p class=\"mbr-reviews__p\">Venue:\tCollege of North Atlantic Doha, Qatar</p><p class=\"mbr-reviews__p\">Date:\tMay 19, 2012</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tAutodesk Revit Structure 2010</span></p><p class=\"mbr-reviews__p\">Conducted by:\tStanford IT Learning CIM Tech</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tAugust 31 to September 4, 2010</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tBasic Cisco Device Overview</span></p><p class=\"mbr-reviews__p\">Conducted by:\tAl-Othaim Markets Company</p><p class=\"mbr-reviews__p\">Venue:\tRiyadh KSA</p><p class=\"mbr-reviews__p\">Date:\tDecember 7 to 10, 2008</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tImplementing a Microsoft SQL Server 2005 Database</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMSINet Education Inc.</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tJuly 16 to 18, 2010</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tCourse 4995 – Programming with the Microsoft.NET Framework</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMSINet Education Inc.</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tMay 04 to 08, 2010</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tElectrical Safety/LOTO Training</span></p><p class=\"mbr-reviews__p\">Conducted by:\tEssilor Safety Department</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tJanuary 14, 2008</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tAutoCAD 2007</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMicroCAD</p><p class=\"mbr-reviews__p\">Venue:\tSan Fernando, Pampanga Philippines</p><p class=\"mbr-reviews__p\">Date:\tMay 6 to July 1, 2007</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t Course 2279 - Planning, Implementing &amp; Maintaining Microsoft Windows Server 2003/Active Directory Infrastructure</span></p><p class=\"mbr-reviews__p\">Conducted by:\tMSINet Education Inc.</p><p class=\"mbr-reviews__p\">Venue:\tMakati, Philippines</p><p class=\"mbr-reviews__p\">Date:\tJune 04 to 08, 2008</p>\n                            \n                            "
+            },
+            {
+              "index": 1,
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "\n                                \n                                <p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tISO 14001 - Environment Aspect</span><br></p><p class=\"mbr-reviews__p\">Conducted by:\tNSI Consulting</p><p class=\"mbr-reviews__p\">Venue:\tBalanga, Bataan Philippines</p><p class=\"mbr-reviews__p\">Date:\tFebruary 5 to 11, 2005</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tWindows SD/SAM Migration System</span></p><p class=\"mbr-reviews__p\">Conducted by:\tEssilor DSI (In-house Training)</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tMarch 11 to 13, 2005</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tSix Sigma Orientation</span></p><p class=\"mbr-reviews__p\">Conducted by:\tQA Department (In-house Training)</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tFebruary 25, 2005</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tInteraction Management</span></p><p class=\"mbr-reviews__p\">Conducted by:\tCiriaco Consulting Group</p><p class=\"mbr-reviews__p\">Venue:\tBalanga City, Bataan Philippines</p><p class=\"mbr-reviews__p\">Date:\tNovember 28 to December 2, 2004</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tSafety &amp; Environmental Refresher Course</span></p><p class=\"mbr-reviews__p\">Conducted by:\tNSI Consulting</p><p class=\"mbr-reviews__p\">Venue:\tMariveles, Bataan</p><p class=\"mbr-reviews__p\">Date:\tOctober 5 to 7, 2003</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tAppreciation Course on ISO 14001</span></p><p class=\"mbr-reviews__p\">Conducted by:\tNSI Consulting</p><p class=\"mbr-reviews__p\">Venue:\tMariveles, Bataan</p><p class=\"mbr-reviews__p\">Date:\tNovember 11 to 12, 2003</p><p class=\"mbr-reviews__p\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p class=\"mbr-reviews__p\"><span style=\"font-weight: bold;\">Course:\t\tMicrosoft Server &amp; Desktop Deployment</span></p><p class=\"mbr-reviews__p\">Conducted by:\tEssilor MIS Dept. (In-house Training)</p><p class=\"mbr-reviews__p\">Venue:\tEssilor, Bataan Economic Zone</p><p class=\"mbr-reviews__p\">Date:\tJanuary 15, 2001</p>\n                            \n                            "
+            }
+          ],
+          "onlyTwo": true,
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true
+          },
+          "title": "PORTFOLIO",
+          "meta": "Recent &nbsp;Projects",
+          "_name": "header3",
+          "_anchor": "header3-15"
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    Copyright (с) 2015 Arnold M. Monticalvo",
+          "_name": "footer1",
+          "_anchor": "footer1-19",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "{PROJECT_IMAGES}01.jpg",
+          "title": "FSMSSA&nbsp;WEBSITE",
+          "text": "<p>Migrated old HMTL website of Social Security Administration to HTML5 </p><p>standard and added browsing efficiency</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">VISIT WEBSITE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-11",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px"
+            },
+            "H2": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "{PROJECT_IMAGES}03.jpg",
+          "title": "EMPLOYEE <br>ATTENDANCE",
+          "text": "<p>Intranet Web application for employee attendance and </p><p>project man power monitoring. Use for Project </p><p>forecasting and management</p><p><br></p><p>Developed using ASP.NET</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-12",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px",
+              "color": "#000000"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "{PROJECT_IMAGES}02.jpg",
+          "title": "AUTOCAD PLUGINS",
+          "text": "<p>Collection of engineering and customize plugins and </p><p>software automation use in detailing and designing </p><p>structural projects.</p><p><br></p><p>Developed using .NET and Autodesk API</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-13",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px",
+              "color": "#000000"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "{PROJECT_IMAGES}04.jpg",
+          "title": "AUTODESK REVIT <br>PLUGINS",
+          "text": "<p>Collection of customize plugins for BIM projects. </p><p>Utilities and tools which are not available in Revit, </p><p>to help detailers in modelling.</p><p><br></p><p>Developed using .NET and Autodesk API</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-14",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px",
+              "color": "#000000"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "{PROJECT_IMAGES}05.jpg",
+          "title": "DOCUMENT ARCHIVE<br>SYSTEM",
+          "text": "<p>Use in archiving documents electronically based on ISO 9001 </p><p>guidelines and documentations.</p><p><br></p><p>Developed using .NET and SQL</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-15",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px",
+              "color": "#000000"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "{PROJECT_IMAGES}1.jpg",
+          "title": "SITE ATTENDANCE",
+          "text": "<p>Attendance use for remote site office. This software uses </p><p>Microsoft OneDrive internet service communicating data using </p><p>from site to head office.</p><p><br></p><p>Developed using .NET and Microsoft OneDrive</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-16",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "{PROJECT_IMAGES}07.jpg",
+          "title": "ENGINEERS TOOLBOX",
+          "text": "<p>Collection of In-house engineering applications for </p><p>mobile devices.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-17",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "logo": "{PROJECT_IMAGES}mylogo.png",
+          "text1": "<strong>ADDRESS</strong><br>\nRoad 2 Polaris Subdivision<br>Barangay Mt. View<br>Mariveles, Bataan<br>2106 Philippines",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: &nbsp; &nbsp;monticaa@hotmail.com<br>\nCell:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;+639294142325 &nbsp; &nbsp; &nbsp;</p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link\" href=\"http://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link\" href=\"http://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link\" href=\"http://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_name": "contacts1",
+          "_anchor": "contacts1-20"
+        }
+      ]
+    }
+  }
+}

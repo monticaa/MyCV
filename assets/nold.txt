@@ -1,0 +1,167 @@
+ Volume in drive F is SSA-FILE-BACKUP
+ Volume Serial Number is 12D6-A6B5
+
+ Directory of F:\MySite\monticaa.comxa.com\assets
+
+09/02/2015  04:40 PM    <DIR>          .
+09/02/2015  04:40 PM    <DIR>          ..
+08/26/2015  10:11 AM    <DIR>          animate.css
+08/25/2015  12:50 PM    <DIR>          bootstrap
+09/02/2015  04:24 PM    <DIR>          images
+08/26/2015  10:11 AM    <DIR>          jquery
+08/26/2015  10:11 AM    <DIR>          jquery-mb-ytplayer
+08/26/2015  10:11 AM    <DIR>          jquery-parallax
+08/26/2015  10:11 AM    <DIR>          jquery-viewport-checker
+08/25/2015  12:50 PM    <DIR>          mobirise
+09/02/2015  04:40 PM                 0 nold.txt
+08/26/2015  10:11 AM    <DIR>          social-likes
+08/25/2015  12:50 PM    <DIR>          socicon
+               1 File(s)              0 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\animate.css
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            55,789 animate.min.css
+               1 File(s)         55,789 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\bootstrap
+
+08/25/2015  12:50 PM    <DIR>          .
+08/25/2015  12:50 PM    <DIR>          ..
+08/26/2015  10:11 AM    <DIR>          css
+08/26/2015  10:11 AM    <DIR>          fonts
+08/26/2015  10:11 AM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\bootstrap\css
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM           149,050 bootstrap.min.css
+               1 File(s)        149,050 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\bootstrap\fonts
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            20,127 glyphicons-halflings-regular.eot
+08/26/2015  10:11 AM           108,738 glyphicons-halflings-regular.svg
+08/26/2015  10:11 AM            45,404 glyphicons-halflings-regular.ttf
+08/26/2015  10:11 AM            23,424 glyphicons-halflings-regular.woff
+08/26/2015  10:11 AM            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\bootstrap\js
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            35,951 bootstrap.min.js
+               1 File(s)         35,951 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\images
+
+09/02/2015  04:24 PM    <DIR>          .
+09/02/2015  04:24 PM    <DIR>          ..
+09/02/2015  04:23 PM            46,966 01.jpg
+08/26/2015  10:11 AM            55,419 02.jpg
+08/26/2015  10:11 AM            50,894 03.jpg
+09/02/2015  04:22 PM            36,387 04.jpg
+08/26/2015  10:11 AM            57,317 05.jpg
+08/26/2015  10:11 AM            40,230 07.jpg
+08/25/2015  04:54 PM            11,024 1-small.jpg
+08/26/2015  10:11 AM            51,496 1.jpg
+08/25/2015  04:44 PM            16,446 eyeglass.png
+08/25/2015  04:54 PM           158,806 matrix.jpg
+08/26/2015  10:11 AM            16,088 mylogo.png
+08/25/2015  01:44 PM            45,270 nold.png
+08/25/2015  04:11 PM            23,756 nold128x128_196.png
+              13 File(s)        610,099 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\jquery
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            95,931 jquery.min.js
+               1 File(s)         95,931 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\jquery-mb-ytplayer
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            45,945 jquery.mb.YTPlayer.min.js
+               1 File(s)         45,945 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\jquery-parallax
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM             1,906 jquery.parallax.js
+               1 File(s)          1,906 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\jquery-viewport-checker
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM             5,459 jquery.viewportchecker.js
+               1 File(s)          5,459 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\mobirise
+
+08/25/2015  12:50 PM    <DIR>          .
+08/25/2015  12:50 PM    <DIR>          ..
+08/26/2015  11:41 AM    <DIR>          css
+08/25/2015  12:50 PM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\mobirise\css
+
+08/26/2015  11:41 AM    <DIR>          .
+08/26/2015  11:41 AM    <DIR>          ..
+08/26/2015  10:11 AM             3,149 mbr-additional.css
+08/26/2015  11:41 AM            43,482 style.css
+               2 File(s)         46,631 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\mobirise\js
+
+08/25/2015  12:50 PM    <DIR>          .
+08/25/2015  12:50 PM    <DIR>          ..
+08/26/2015  10:11 AM            19,239 script.js
+               1 File(s)         19,239 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\social-likes
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            17,482 social-likes.js
+               1 File(s)         17,482 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\socicon
+
+08/25/2015  12:50 PM    <DIR>          .
+08/25/2015  12:50 PM    <DIR>          ..
+08/26/2015  10:11 AM    <DIR>          css
+08/26/2015  10:11 AM    <DIR>          fonts
+               0 File(s)              0 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\socicon\css
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            11,539 socicon.min.css
+               1 File(s)         11,539 bytes
+
+ Directory of F:\MySite\monticaa.comxa.com\assets\socicon\fonts
+
+08/26/2015  10:11 AM    <DIR>          .
+08/26/2015  10:11 AM    <DIR>          ..
+08/26/2015  10:11 AM            26,667 socicon.eot
+08/26/2015  10:11 AM            65,661 socicon.svg
+08/26/2015  10:11 AM            41,824 socicon.ttf
+08/26/2015  10:11 AM            28,584 socicon.woff
+08/26/2015  10:11 AM            24,876 socicon.woff2
+               5 File(s)        187,612 bytes
+
+     Total Files Listed:
+              36 File(s)      1,498,354 bytes
+              53 Dir(s)  513,924,698,112 bytes free

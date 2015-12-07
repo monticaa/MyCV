@@ -1,0 +1,133 @@
+/*@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);*/
+
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('OpenSans-CondLight-webfont.ttf') format("opentype");
+}
+
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Regular.ttf') format("opentype");
+}
+
+
+
+
+#menu-0 .brand > span > a {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#menu-0 A {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 16px !important;
+	color: #ffffff !important;
+}
+#header1-1 H1 {
+	font-family: 'Open Sans', sans-serif !important;
+	color: #ffffff !important;
+}
+#header1-1 P {
+	font-size: 30px !important;
+}
+#header1-1 SPAN {
+	font-family: 'Open Sans', sans-serif !important;
+	color: #efefef !important;
+	font-size: 24px !important;
+}
+#header1-1 .btn {
+	font-family: 'Open Sans', sans-serif !important;
+}
+#msg-box3-10 P {
+	color: #ffffff !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 21px !important;
+}
+#msg-box3-10 H2 {
+	color: #efefef !important;
+}
+#testimonials1-7 P {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+	color: #000000 !important;
+}
+#testimonials1-9 P {
+	color: #000000 !important;
+	font-size: 19px !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#testimonials1-12 P {
+	font-size: 18px !important;
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#header3-15 H3 {
+	text-align: center !important;
+}
+#header3-15 P {
+	text-align: center !important;
+}
+#footer1-19 P {
+	text-align: center !important;
+}
+#msg-box4-11 P {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+}
+#msg-box4-11 H2 {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#msg-box4-12 P {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+	color: #000000 !important;
+}
+#msg-box4-12 H2 {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#msg-box4-13 P {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+	color: #000000 !important;
+}
+#msg-box4-13 H2 {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#msg-box4-14 P {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+	color: #000000 !important;
+}
+#msg-box4-14 H2 {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#msg-box4-15 P {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+	color: #000000 !important;
+}
+#msg-box4-15 H2 {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#msg-box4-16 H2 {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#msg-box4-16 P {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+}
+#msg-box4-17 H2 {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+#msg-box4-17 P {
+	color: #000000 !important;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	font-size: 19px !important;
+}
